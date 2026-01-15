@@ -5,12 +5,12 @@
 ---
 
 ## About Me
-I’m currently studying and focused on learning, collaboration, and building clean, modern digital experiences.
+I’m a learner and creator advancing what’s next through collaboration and clean, modern digital design.
 
 ---
 
 ## Personal Brand
-<img src="branding/banner/github-banner.png" width="100%" />
+<img src="branding/banner/axyon banner.png" width="100%" />
 
 **Brand Name:** AXYON  
 **Style:** Modern, bold, forward-thinking
