@@ -1,4 +1,4 @@
-# Hi, I'm Josh Cagape 👋
+# hello there im josh cagape and welcome!👋
 
 🚀 **Advancing What’s Next**
 
