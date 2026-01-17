@@ -1,8 +1,22 @@
-# hello there im josh cagape and welcome!👋
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120">
+</p>
 
-🚀 **Advancing What’s Next**
+<h1 align="center">
+I’m Josh Cagape — welcome ✌️
+</h1>
 
----
+<p align="center">
+A creative thinker and digital builder powered by curiosity, clean design, and just enough coffee to keep ideas moving.
+</p>
+
+<p align="center">
+🚀 <strong>Advancing What’s Next</strong>
+</p>
+
+
+
+
 
 ## About Me
 I’m a learner and creator advancing what’s next through collaboration and clean, modern digital design.
@@ -45,3 +59,7 @@ I’m a learner and creator advancing what’s next through collaboration and cl
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/jcagape05)
+
+
+
+
