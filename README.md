@@ -54,8 +54,14 @@ I’m a learner and creator advancing what’s next through collaboration and cl
 ## 🔖 Logo
 
 ![AXYON Logo](branding/logo/axyon%20logo.png)
+### 🖼 Banner
 
 ![AXYON Banner](branding/banner/axyon%20banner.png)
+
+### 🎨 Color Palette
+
+![AXYON Palette](branding/palette/Palette.png)
+
 
 
 
