@@ -49,16 +49,22 @@ I’m a learner and creator advancing what’s next through collaboration and cl
 
 ---
 
-## Branding Assets
-- Logo: branding/logo
-- Banner: branding/banner
-- Palette: branding/palette
+## 🎨 Personal Brand Assets
+
+All official AXYON branding files are organized inside the `branding` folder for clarity and easy access.
+
 
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/jcagape05)
+
+
+---
+
+
+
 
 
 
